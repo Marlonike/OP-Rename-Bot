@@ -25,3 +25,10 @@ broadcast - Broadcast Message. (Admin Only)
 status - Show Users Count in DB. (Admin Only)
 ```
 
+## Deploy to Heroku
+Easy to Deploy to Heroku.
+
+
+Press Below Button to Deploy!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/OP-Rename-Bot)
