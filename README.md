@@ -1,5 +1,5 @@
 # Rename-Bot
-This is a very simple Telegram Files Rename Bot by [@AbirHasan2005](https://t.me/AbirHasan2005).
+This is a very simple Telegram Files Rename Bot by [marlonike].
 
 ## Features
 - Rename Videos, Documents or Audios without downloading the file.
@@ -24,21 +24,4 @@ delete_thumbnail - Delete Custom Thumbnail
 broadcast - Broadcast Message. (Admin Only)
 status - Show Users Count in DB. (Admin Only)
 ```
-
-### Support Group
-<a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-
-## Deploy to Heroku
-Easy to Deploy to Heroku.
-
-### Video Tutorial:
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/edcOa_cZWg4)
-
-
-Press Below Button to Deploy!
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/OP-Rename-Bot)
-
-#### Thanks to [subinps](https://github.com/subinps) for helping
-#### Inspired from [@HK_Rename_Bot](https://t.me/HK_Rename_Bot) & [@AHToolsBot](https://t.me/AHToolsBot)
 
